@@ -2,6 +2,6 @@
   "usingComponents": {
     "SearchInput" : "../../components/SearchInput/SearchInput"
   },
-  "navigationBarTitleText": "EasyGrocery Home"
+  "navigationBarTitleText": "EasyMail Home"
     
 }
