@@ -1,0 +1,6 @@
+<view class="search_input">
+	<navigator url="/pages/search/index">
+		Search
+	</navigator>
+</view>
+
